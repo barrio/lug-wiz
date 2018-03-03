@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://barrios.github.io/lug-wiz/</loc>
-  <lastmod>2018-03-02T20:16:00Z</lastmod>
+  <lastmod>2018-03-03T06:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://barrios.github.io/lug-wiz/2018/</loc>
@@ -15,7 +15,15 @@
  </url>
  <url>
   <loc>https://barrios.github.io/lug-wiz/archive.html</loc>
-  <lastmod>2018-03-02T20:25:00Z</lastmod>
+  <lastmod>2018-03-03T06:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://barrios.github.io/lug-wiz/blog/</loc>
+  <lastmod>2018-03-02T20:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://barrios.github.io/lug-wiz/blog/linux-user-group-witzenhausen/</loc>
+  <lastmod>2018-03-02T20:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://barrios.github.io/lug-wiz/categories/</loc>
@@ -34,11 +42,15 @@
   <lastmod>2018-03-02T16:54:00Z</lastmod>
  </url>
  <url>
+  <loc>https://barrios.github.io/lug-wiz/pages/</loc>
+  <lastmod>2018-03-02T20:42:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://barrios.github.io/lug-wiz/pages/about/</loc>
   <lastmod>2018-03-02T20:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://barrios.github.io/lug-wiz/posts/linux-user-group-witzenhausen/</loc>
-  <lastmod>2018-03-02T17:13:00Z</lastmod>
+  <lastmod>2018-03-03T06:59:00Z</lastmod>
  </url>
 </urlset>

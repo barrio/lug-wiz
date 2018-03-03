@@ -1,5 +1,5 @@
 <!--
-.. title: Linux User Group Witzenhausen
+.. title: Gründungstreffen
 .. slug: linux-user-group-witzenhausen
 .. date: 2018-03-02 18:04:06 UTC+01:00
 .. tags: linux witzenhausen
@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-# Gründungstreffen am 3. März 2018 um 15 Uhr
+# 3. März 2018 um 15 Uhr
 
 Es ist soweit, wir gründen auf Initiative von [Manfred Wilke][1] in Witzenhausen eine Linux User Group (LUG)! 
 
