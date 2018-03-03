@@ -11,12 +11,13 @@
 
 ## Angaben gemäß § 5 TMG
 
+# Linux User Group Witzenhausen
+
+Vertreten durch:  
+
 Marco Heins  
 Lohbergstr. 4a  
 37085 Göttingen  
-
-Vertreten durch:  
-Marco Heins  
   
 Kontakt:  
 Telefon: 0551-3814363  

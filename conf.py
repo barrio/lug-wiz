@@ -137,7 +137,7 @@ NAVIGATION_LINKS = {
             ('/archive.html', 'Archives', 'icon-folder-open-alt'),
             ('/categories/index.html', 'Tags', 'icon-tags'),
             ('/rss.xml', 'RSS', 'icon-rss'),
-            ('/pages/about/index.html', 'About me', 'icon-user'),
+            ('/pages/about/index.html', 'Kontakt', 'icon-user'),
             ('https://github.com/barrio/lug-wiz', 'My Github', 'icon-github'),
         )
     }
